@@ -4,9 +4,9 @@ import (
 	"context"
 	"encoding/json"
 
+	"github.com/atom-providers/database/redis"
+	"github.com/atom-providers/log"
 	"github.com/hibiken/asynq"
-	"github.com/rogeecn/atom-addons/providers/database/redis"
-	"github.com/rogeecn/atom-addons/providers/log"
 	"github.com/rogeecn/atom/container"
 	"github.com/rogeecn/atom/utils/opt"
 )
