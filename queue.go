@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/atom-providers/database/redis"
+	"github.com/atom-providers/database-redis"
 	"github.com/atom-providers/log"
 	"github.com/hibiken/asynq"
 	"github.com/rogeecn/atom/container"
