@@ -6,7 +6,7 @@ require (
 	github.com/atom-providers/database-redis v0.0.0-20230731090018-9c1d461b838c
 	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
 	github.com/hibiken/asynq v0.24.1
-	github.com/rogeecn/atom v1.0.4
+	github.com/rogeecn/atom v1.0.6
 )
 
 require (
