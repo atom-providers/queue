@@ -6,7 +6,7 @@ require (
 	github.com/atom-providers/database-redis v0.0.0-20230731090018-9c1d461b838c
 	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
 	github.com/hibiken/asynq v0.24.1
-	github.com/rogeecn/atom v1.0.3
+	github.com/rogeecn/atom v1.0.4
 )
 
 require (
@@ -35,7 +35,7 @@ require (
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
 	golang.org/x/time v0.1.0 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
