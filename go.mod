@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/atom-providers/database-redis v0.0.0-20230731090018-9c1d461b838c
-	github.com/atom-providers/log v0.0.0-20230731102101-c690ec235b6c
+	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
 	github.com/hibiken/asynq v0.24.1
 	github.com/rogeecn/atom v1.0.3
 )
@@ -22,7 +22,6 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/redis/go-redis/v9 v9.0.5 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
-	github.com/rogpeppe/go-internal v1.10.0 // indirect
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/cast v1.5.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
@@ -37,7 +36,6 @@ require (
 	golang.org/x/text v0.11.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
-	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
